@@ -81,7 +81,7 @@ s.send("acknowledgement recived from the server".encode())
 ```
 
 ## Output:
-![Screenshot 2024-10-17 142546](https://github.com/user-attachments/assets/d8e84841-b553-4651-b9f0-c93c201107ca)
+![Uploading Screenshot 2025-02-27 103502.png…]()
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
